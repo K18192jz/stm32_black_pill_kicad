@@ -3,6 +3,10 @@
 This repository contains custom KiCad PCB designs that I create and use.
 The goal is to save time by sharing ready-to-use designs so others don’t have to
 redesign the same things repeatedly.
+image.png
+
+
+
 
 ## Included
 - STM32 Black Pill (40-pin) minimal **symbol**
